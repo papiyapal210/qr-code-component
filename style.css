@@ -14,7 +14,7 @@ body{
     justify-content: center;
 }
 .card{
-    max-width: 220px;
+    max-width: 250px;
     display: flex;
     flex-direction: column;
     border-radius: 15px;
