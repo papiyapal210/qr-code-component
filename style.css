@@ -23,11 +23,11 @@ body{
 }
 .scanner{
     width: 100%;
-    padding: 15px;
+    padding: 20px;
 }
 .qr-picture{
     width: 100%;
-    height: 290px;
+    height: 280px;
     object-fit: cover;
     object-position: center;
     border-radius: 10px;
@@ -40,7 +40,7 @@ body{
     padding: 0 29px;
 }
 .heading{
-    font-size: 23px;
+    font-size: 22px;
     font-weight: 700;
     text-align: center;
     color: hsl(218, 44%, 22%);
