@@ -50,7 +50,7 @@ body{
     font-weight: 400;
     text-align: center;
     color: hsl(216, 15%, 48%);
-    margin-bottom: 35px;
+    margin-bottom: 40px;
 }
 @media (max-width: 375px) {
     .card{
